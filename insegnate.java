@@ -3,10 +3,11 @@ public class Insegnante extends Utente {
   
     private String materia;
     
-    public Insegnante (int idInsegnante, String materia){
+    public Insegnante (int idInsegnante, String materia,String nome,String cognome,String email,String password){
+    super(nome,cognome,email,password);{
+         super(nome,cognome,email,password);
         setIdInsegnante(idInsegnante);
-        super(nome,cognome,email,password);
-      
+    
     }
 
     public  void setIdInsegnante(int idInsegnante) {
