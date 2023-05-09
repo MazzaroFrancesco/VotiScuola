@@ -4,9 +4,10 @@ public class Segreteria  extends Utente{
   
    
     
-    public Segreteria (int idSegreteria){
-        setIdSegreteria(idSegreteria);
-      super(nome,cognome,email,password);
+    public Segreteria (int idSegreteriasuper(nome,cognome,email,password);{
+      super(nome,cognome,email,password);   
+      setIdSegreteria(idSegreteria);
+     
     }
 
     public  void setIdSegreteria(int idSegreteria) {
