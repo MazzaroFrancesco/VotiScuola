@@ -1,13 +1,15 @@
 public class Voti {
-   private int Valutazioni;
-   private int Voti;
-private String Materia;
-   public Voti (int Voti){
-       setVoti (Voti);
-       
-   }
-   public void setValutazioni (int Voti){
-       this.Voti=Voti;
-       
-   }
+    
+private Voto Voti[];
+    private Alunno[] Alunni;
+
+public Voti(Voto Voti[]){
+    setVoti(Voti);
+}
+public void setVoti(Voto Voti[]){
+    this.Voti=Voti;
+}
+public Voto[] getVoti(){
+    return Voti;
+}
 }
