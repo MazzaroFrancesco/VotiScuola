@@ -1,0 +1,23 @@
+public class Associazione
+private string classe;
+private string materia;
+ 
+public Associazione (string class,string materia){
+    setClasse(classe);
+    setMateria(materia);
+}
+public void setClasse (string classe){
+    this.classe=classe;
+}
+ public String getClasse(){
+         return classe;
+     }
+    public void setMateria (String materia){
+    this.materia=materia;
+    }
+    public String getMateria(){
+         return materia;
+    }
+    
+}
+
