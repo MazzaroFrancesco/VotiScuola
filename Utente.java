@@ -1,14 +1,14 @@
 public class Utente {
-    private String nome;
-    private String cognome;
-    private String email;
-    private String password;
+    String nome;
+    String cognome;
+    String email;
+    String password;
    
     public Utente(String nome, String cognome, String email, String password){
          setNome(nome);
          setCognome(cognome);
          setEmail(email);
-         setPassword(password)
+         setPassword(password);
     }
     public void setNome (String nome){
     this.nome=nome;
@@ -36,4 +36,3 @@ public class Utente {
          return password;
     }
 }
-
