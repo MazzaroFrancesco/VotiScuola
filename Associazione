@@ -2,11 +2,11 @@ public class Associazione
 private string classe;
 private string materia;
  
-public Associazione (string class,string materia){
+public Associazione (class class,string materia){
     setClasse(classe);
     setMateria(materia);
 }
-public void setClasse (string classe){
+public void setClasse (class classe){
     this.classe=classe;
 }
  public String getClasse(){
