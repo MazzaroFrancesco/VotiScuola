@@ -1,11 +1,11 @@
-public class Insegnante extends Utente {
+public final class Insegnante extends Utente {
      private int idInsegnante;
   
     private String materia;
     
     public Insegnante (int idInsegnante, String materia,String nome,String cognome,String email,String password){
     super(nome,cognome,email,password);{
-         super(nome,cognome,email,password);
+         
         setIdInsegnante(idInsegnante);
     
     }
