@@ -1,0 +1,16 @@
+ Carmine;Russo;russo.carmine@parmenideroccadaspide.net;Password;
+Francesco;Mazzaro;mazzaro.francesco@parmenideroccadaspide.net;Password1;
+Carmine;Cennamo;cennamo.carmine@parmenideroccadaspide.net;Password2;
+Cristiano;DiMatteo;dimatteo.cristiano@parmenideroccadaspide.net;Password3;
+Manuel;Vitolo;vitolo.manuel@parmenideroccadaspide.net;Password;
+Lorenzo;Lettieri;lettieri:lorenzo@parmenideroccadaspide.net;Password;
+Aniello;DeLuca;deluca.aniello@parmenideroccadaspide.net;Password;
+Zakaria;Aajam;aajam.zakaria@parmenideroccadaspide.net;Password;
+Francesco;Pellegrino;pellegrino.francecso@parmenideroccadaspide.net;Password;
+Donato;Amendola;amendola.donato@parmenideroccadaspide.net;Password;
+Francesco;DiMasi;dimasi;francesco@parmenideroccadaspide.net;Password;
+Carmine;Burti;burti.carmine@parmenideroccadaspide.net;Password;
+Karim;Pepe;pepe.karim@parmenideroccadaspide.net;Password;
+Giosuè;Ciuccio;ciuccio.goisue@parmenideroccadaspide.net;Password;
+Francesco;Taurone;taurone.francesco@parmenideroccadaspide.net;Password;
+Germano;Taurone;taurone.germano@parmenideroccadaspide.net;Password;
