@@ -1,0 +1,45 @@
+import java.util.Scanner;
+public class MyClass {
+    public static void main(String[] args) {
+        int n;
+        System.out.println("inserisci 1 per avare una stampa delle classi");
+        Scanner scanIn = new Scanner(System.in);
+        n = scanIn.nextInt();
+        
+        switch (n){
+        case 1:
+        classi listaClassi[] = getClassi();
+        i=0;
+        do{
+            System.out.println(listaClassi[i]);
+            i++;
+        }while(listaClassi[i]==null)
+        break;
+        case 2:
+        
+        String nomeFile = "alunni.txt"; 
+
+            BufferedReader reader = new BufferedReader(new FileReader(nomeFile))) {
+            String riga;
+            System.out.println(riga);
+            
+                
+        break;
+        case 3:
+        insegnate listaInsegnanti[] = getInsegnanti();
+        i=0;
+        do{
+            System.out.println(listaInsegnati[i]);
+            i++;
+        }while(listaInsegnate[i]==null)
+         break;
+         
+         case 4:
+          
+          break;   
+         
+        
+    }
+        
+    }
+}
